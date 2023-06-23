@@ -16,9 +16,7 @@ Tableau <br>
 Microsoft Excel <br>
 
 Machine Learning:
-  Log Regression <br>
-  Random Forest <br>
-  XGBoost <br>
+  (Log Regression, Random Forest, XGBoost) <br>
 Time Series Forecasting <br>
 Web Scraping <br>
 API <br>
@@ -28,7 +26,7 @@ Sentiment Analysis
 
 ### Education
 
-New York University, Bachelor of Science in Finance & Data Science, 2018-2022
+New York University, Bachelor of Science in Finance & Data Science, 2018-2022 <br>
 University of Notre Dame, Master of Science in Business Analytics, 2022-2023
 
 #
