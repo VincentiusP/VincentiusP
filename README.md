@@ -4,18 +4,35 @@
 
 I am a newly graduated Master's student looking to get started and showcase how I can use my skills to contribute. On this page you can find my coding projects from schoolwork that I've done to passion projects that I've been exploring.
 
-
- <p align="left">
-         <img alt="followers" title="Connect with me on Linkedin" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
 ---
 
-### Languages and Tools
+### Languages, Tools and Skills
+Python
+R
+SQL
+Tableau
+Microsoft Excel
 
+Machine Learning:
+  Log Regression
+  Random Forest
+  XGBoost
+Time Series Forecasting
+Web Scraping
+API Documentation
+Sentiment Analysis
+
+#
+
+### Education
+
+New York University, Bachelor of Science in Finance & Data Science, 2018-2022
+University of Notre Dame, Master of Science in Business Analytics, 2022-2023
 
 #
 
 <details>
- <summary><h3>👨‍💻 My Journey</h3></summary>
+ <summary><h3>More Information</h3></summary>
    I started coding
