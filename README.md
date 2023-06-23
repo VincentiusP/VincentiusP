@@ -11,12 +11,9 @@ I am a newly graduated Master's student looking to get started and showcase how 
 ### Languages, Tools and Skills
 Python
 
-R
-
+R <br>
 SQL
-
 Tableau
-
 Microsoft Excel
 
 Machine Learning:
