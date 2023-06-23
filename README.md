@@ -9,20 +9,19 @@ I am a newly graduated Master's student looking to get started and showcase how 
 ---
 
 ### Languages, Tools and Skills
-Python
-
+Python <br>
 R <br>
-SQL
-Tableau
-Microsoft Excel
+SQL <br>
+Tableau <br>
+Microsoft Excel <br>
 
 Machine Learning:
-  Log Regression
-  Random Forest
-  XGBoost
-Time Series Forecasting
-Web Scraping
-API Documentation
+  Log Regression <br>
+  Random Forest <br>
+  XGBoost <br>
+Time Series Forecasting <br>
+Web Scraping <br>
+API <br>
 Sentiment Analysis
 
 #
